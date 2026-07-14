@@ -1,17 +1,23 @@
-# python-data-science-machine-learning-journey
-Hi! I'm Manvender Singh Rawat.
-This repository contains my learning journey in python, data science and machine learning.
+# 🚀 Python Data Science & Machine Learning Journey
 
-## Topics covered 
+Hi! I'm **Manvender Singh Rawat**, a B.Tech CSE-AIML student.
 
--Python
--Numpy
--Pandas(In progress)
--Matplotlib
--Seaborn
--Scikit-learn 
+This repository documents my journey of learning Python, Data Science, and Machine Learning through hands-on notebooks and projects.
 
-## Goals
+## 📚 Topics Covered
 
--Build Data Science and machine learning projects 
--Improve Python programming
+- ✅ Python
+- ✅ NumPy
+- 🔄 Pandas (In Progress)
+- ⏳ Matplotlib
+- ⏳ Seaborn
+- ⏳ Scikit-learn
+- ⏳ Machine Learning Projects
+
+## 🎯 Goals
+
+- Build Data Science & Machine Learning projects
+- Strengthen Python programming skills
+- Prepare for internships
+
+Thanks for visiting my repository!
